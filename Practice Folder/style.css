@@ -124,3 +124,32 @@ span {
 button:hover {
     border: none;
 }
+
+.credit {
+    color: #fff;
+    background-color: #645664cb;
+}
+
+.credit p {
+    margin: 0 10px;
+    padding: 5px;
+}
+
+.credit a {
+    text-decoration: none;
+    color: #fff;
+    font-style: italic;
+    cursor: pointer;
+}
+
+.credit a:hover {
+    color: #531852;
+}
+
+.footer {
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    color: #fff;
+    background-color: #291028 ;
+}
